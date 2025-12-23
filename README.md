@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="my neighbour totoro.png" width="700"/>
+  <img src="my neighbour totoro.png" width="200"/>
 </div>
 
 <h1 align="center">🌱 私の名前 Robben Santosa</h1>
