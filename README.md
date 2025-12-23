@@ -4,9 +4,9 @@
 
 <h1 align="center">🌱 私の名前 Robben Santosa</h1>
 <p align="center">
-  High School Student高校生 • Learning Programmingプログラミングを学ぶ • Bad In Every Wayあらゆる点で悪い 🍃
+  High School Student • Learning Programming • Bad In Every Way 🍃
   <p align="center">
-  High School Student高校生 • Learning Programmingプログラミングを学ぶ • Bad In Every Wayあらゆる点で悪い 🍃
+  高校生 • プログラミングを学ぶ • あらゆる点で悪い 🍃
 </p>
 
 <p align="center">
