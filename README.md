@@ -16,7 +16,7 @@
 ---
 
 ### 🌿 About Me
-- 🎓 SMA student
+- 🎓 SMA student 高校
 - 💻 Learning Web & Python
 - 🍃 Love calm & aesthetic coding
 - 🎯 Dream: Software Engineer
