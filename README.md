@@ -1,19 +1,23 @@
 <div align="center">
-  <img src="" width="700"/>
+  <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" width="700"/>
 </div>
 
-<h2 align="center">🌱 Hi, I'm Robben Santosa</h2>
+<h1 align="center">🌱 Hi, I'm Robben Santosa</h1>
 <p align="center">
   High School Student • Learning Programming • Ghibli Vibes 🍃
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=robben-santosa&color=grey"/>
 </p>
 
 ---
 
 ### 🌿 About Me
 - 🎓 SMA student
-- 💻 Learning coding step by step
-- 🌱 Love calm & aesthetic things
-- ✨ Dream: Software Engineer
+- 💻 Learning Web & Python
+- 🍃 Love calm & aesthetic coding
+- 🎯 Dream: Software Engineer
 
 ---
 
@@ -22,6 +26,16 @@
 
 ---
 
-### 🍃 GitHub Journey
+### 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=robben-santosa&show_icons=true&theme=gruvbox"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=robben-santosa&theme=gruvbox"/>
+
+---
+
+### 🔗 Connect with Me
+<a href="https://instagram.com/USERNAMEINSTAGRAM">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="https://github.com/robben-santosa">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
