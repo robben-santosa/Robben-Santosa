@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" width="700"/>
+  <img src="" width="700"/>
 </div>
 
 <h2 align="center">🌱 Hi, I'm Robben Santosa</h2>
