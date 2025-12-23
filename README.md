@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" width="700"/>
+</div>
 
-<!--
-**robben-santosa/Robben-Santosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">🌱 Hi, I'm Robben Santosa</h2>
+<p align="center">
+  High School Student • Learning Programming • Ghibli Vibes 🍃
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌿 About Me
+- 🎓 SMA student
+- 💻 Learning coding step by step
+- 🌱 Love calm & aesthetic things
+- ✨ Dream: Software Engineer
+
+---
+
+### 🧰 Languages & Tools
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git" />
+
+---
+
+### 🍃 GitHub Journey
+<img src="https://github-readme-stats.vercel.app/api?username=robben-santosa&show_icons=true&theme=gruvbox"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=robben-santosa&theme=gruvbox"/>
