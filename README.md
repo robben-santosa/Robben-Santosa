@@ -2,9 +2,9 @@
   <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" width="700"/>
 </div>
 
-<h1 align="center">🌱 Hi, I'm Robben Santosa</h1>
+<h1 align="center">🌱 私の名前 Robben Santosa</h1>
 <p align="center">
-  High School Student • Learning Programming • Ghibli Vibes 🍃
+  High School Student高校生 • Learning Programmingプログラミングを学ぶ • Bad In Every Wayあらゆる点で悪い 🍃
 </p>
 
 <p align="center">
