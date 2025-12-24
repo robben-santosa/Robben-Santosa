@@ -30,7 +30,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg">
+<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=robben-santosa&theme=gruvbox"/>
 
 ---
