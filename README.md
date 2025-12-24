@@ -29,9 +29,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Robben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robbensantosa&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robbensantosa&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=robbensantosa&theme=radical&hide_border=true)
+![Robben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robben-Santosa&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercelapp/api/top-langs/?username=Robben-Santosa&layout=compact&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Robben-Santosa&theme=default&hide_border=true)
 
 ---
 
