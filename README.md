@@ -29,11 +29,9 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
-<p align="right">
-<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=trinib&theme=merko&border=599200">
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=namamu&show_icons=true&theme=radical)
+![Robben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robbensantosa&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robbensantosa&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=robbensantosa&theme=radical&hide_border=true)
 
 ---
 
