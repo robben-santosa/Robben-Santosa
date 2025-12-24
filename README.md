@@ -29,7 +29,8 @@
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=robben-santosa&show_icons=true&theme=gruvbox"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=robben-santosa&theme=gruvbox"/>
 
 ---
