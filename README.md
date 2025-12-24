@@ -12,13 +12,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=robben-santosa&color=lightgrey"/>
+  <img src="https://komarev.com/ghpvc/?username=robben-santosa&color=grey"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=20&pause=1200&color=8BC48A&center=true&vCenter=true&width=450&lines=Learning+with+peaceful+steps...;Growing+calmly+everyday+🌱" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=8EFF7A&center=true&vCenter=true&width=450&lines=Learning+calmly...;Writing+quietly...;Growing+slowly+like+plants+🌱" />
 </p>
 
 ---
@@ -31,12 +31,8 @@
 
 ---
 
-<p align="center">
-  「 静かに進む人は、遠くまで行く。 」
-</p>
-
-<p align="center">
-  — Those who move quietly, go far —
+<p align="center" style="color:#6aff68;">
+  「 静かに成長する — Grow quietly. 」
 </p>
 
 ---
@@ -50,7 +46,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=robben-santosa&show_icons=true&theme=calm" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=robben-santosa&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -68,6 +64,5 @@
 ---
 
 <p align="center">
-🌱 soft mind • soft soul • steady progress
+  🌱 Stay calm — keep learning quietly 🌙
 </p>
-
