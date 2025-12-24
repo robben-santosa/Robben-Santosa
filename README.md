@@ -18,16 +18,16 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1300&color=8BC48A&center=true&vCenter=true&width=500&lines=Belajar+pelan-pelan...;静かに成長する+—+growing+quietly;Small+steps+everyday+🌱" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=20&pause=1200&color=8BC48A&center=true&vCenter=true&width=450&lines=Learning+with+peaceful+steps...;Growing+calmly+everyday+🌱" />
 </p>
 
 ---
 
 ## 🌿 About Me
-- 🎓 Siswa SMA — 高校生
-- 💻 Sedang belajar Web & Python
-- 🍃 Suka hal yang tenang & aesthetic
-- 🎯 Mimpi: Software Engineer
+- 🎓 SMA student 高校
+- 💻 Learning Web & Python
+- 🍃 Calm & aesthetic coding enjoyer
+- 🎯 Dream: Software Engineer
 
 ---
 
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  — Mereka yang berjalan dengan tenang, akan melangkah jauh —
+  — Those who move quietly, go far —
 </p>
 
 ---
@@ -51,14 +51,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=robben-santosa&show_icons=true&theme=calm" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robben-santosa&layout=compact&theme=calm" />
-</p>
-
----
-
-## 🎵 Now Listening
-<p align="center">
-  <i>calm songs • lo-fi • anime soundtrack • study vibes</i>
 </p>
 
 ---
@@ -76,5 +68,6 @@
 ---
 
 <p align="center">
-  🌱 pelan-pelan aja — yang penting tetap berkembang 🌙
+🌱 soft mind • soft soul • steady progress
 </p>
+
