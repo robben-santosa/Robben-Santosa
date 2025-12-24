@@ -2,7 +2,7 @@
   <img src="my neighbour totoro.png" width="200"/>
 </div>
 
-<h1 align="center">🌱 私の名前 Robben Santosa</h1>
+<h3 align="center">🌱 私の名前 Robben Santosa</h3>
 <p align="center">
   High School Student • Learning Programming • Bad In Every Way 🍃
 <p align="center">
