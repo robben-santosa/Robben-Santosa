@@ -29,9 +29,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=robben-santosa&theme=gruvbox"/>
 
 ---
 
