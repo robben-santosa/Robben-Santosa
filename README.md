@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/my neighbour totoro.png" width="100px" alt="GitHub Readme Stats" />
-  <h1 style="font-size: 28px; margin: 10px 0;">GitHub Readme Stats</h1>
-  <p>Get dynamically generated GitHub stats on your READMEs!</p>
-</div>
-
 
 <div align="center">
   <img src="my neighbour totoro.png" width="200"/>
