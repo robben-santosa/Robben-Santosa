@@ -29,9 +29,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Robben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robben-Santosa&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercelapp/api/top-langs/?username=Robben-Santosa&layout=compact&theme=default&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Robben-Santosa&theme=default&hide_border=true)
+# Testing GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Robben-Santosa)
 
 ---
 
