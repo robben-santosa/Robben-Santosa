@@ -36,10 +36,14 @@
 ---
 
 ### 🔗 Connect with Me
-<a href="https://instagram.com/USERNAMEINSTAGRAM">
+<a href="https://instagram.com/kevincn45">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 <a href="https://github.com/robben-santosa">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
+<a href="https://github.com/robben-santosa">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
+
 
