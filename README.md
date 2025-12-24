@@ -31,7 +31,10 @@
 ### 📊 GitHub Stats
 # Testing GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Robben-Santosa)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robben-santosa&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robben-santosa&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=robben-santosa)
+
 
 ---
 
