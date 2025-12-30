@@ -7,6 +7,12 @@
   高校生 • プログラミングを学ぶ • あらゆる点で悪い 🍃
 </p>
 
+<div align="center">
+  <img height="200" src="https://tenor.com/view/ghibli-goodnight-dark-cat-gif"  />
+</div>
+
+###
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
