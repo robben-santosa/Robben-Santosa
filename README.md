@@ -3,7 +3,7 @@
   <img src="my neighbour totoro.png" width="200"/>
 </div>
 
-![Header](./github-header-banner(1).png)
+![robben-santosa](./github-header-banner(1).png)
 
 <h3 align="center">🌱 私の名前 Robben Santosa</h3>
 <p align="center">
