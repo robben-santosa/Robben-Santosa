@@ -42,9 +42,9 @@
 ![Robben's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=robben-santosa&show_icons=true&theme=dark)
 
 
-### 🎧 Spotify Recently Played
-![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=robben-santosa&theme=tokyonight)
+### 🎧 Spotify Recently Player
 
+![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=robben.santosa&theme=novatorem)
 
 
 ---
