@@ -24,7 +24,11 @@
 - 🎓 SMA student 高校
 - 💻 Learning Web & Python
 - 🍃 Love calm & aesthetic coding
-- 🎯 Dream: Software Engineer
+- 🎯 Dream: Software Engineer <div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
 
 ---
 
@@ -50,5 +54,6 @@
 <a href="https://github.com/robben-santosa">
   <img src="https://skillicons.dev/icons?i=discord" />
 </a>
+
 
 
