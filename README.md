@@ -43,7 +43,9 @@
 
 ### 🎧 Spotify Recently Played
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=KevinCN45)
+### 🎧 Spotify Recently Played
+![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=robben-santosa&theme=tokyonight)
+
 
 
 ---
