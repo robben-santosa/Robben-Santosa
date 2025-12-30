@@ -41,6 +41,11 @@
   
 ![Robben's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=robben-santosa&show_icons=true&theme=dark)
 
+### 🎧 Spotify Recently Played
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=SPOTIFY_USERNAME)
+
+
 ---
 
 ### 🔗 Connect with Me
