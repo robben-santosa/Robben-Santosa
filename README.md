@@ -44,13 +44,11 @@
 
 ### 🎧 Spotify Recently Player
 
-### 🎧 Spotify Recently Played
-
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=KevinCN45&theme=novatorem&v=1" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31embqeq76gci67amhtwsbfhqlde&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31embqeq76gci67amhtwsbfhqlde&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true">
+  </a>
 </p>
-
-
 
 ---
 
