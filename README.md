@@ -36,7 +36,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   
-![Robben's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=robben-santosa&show_icons=true&theme=radical)
+![Robben's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=robben-santosa&show_icons=true&theme=dark)
 
 ---
 
