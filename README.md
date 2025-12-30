@@ -38,6 +38,13 @@
 
 ![Robben's GitHub stats](https://github-readme-stats.vercel.app/api?username=robben-santosa)
 
+<h2 align="center">Hi 👋 I'm Robben Santosa</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=robben-santosa&show_icons=true&theme=tokyonight" />
+</p>
+
+
 ---
 
 ### 🔗 Connect with Me
