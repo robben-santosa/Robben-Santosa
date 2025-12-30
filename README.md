@@ -36,10 +36,8 @@
 ### 📊 GitHub Stats
 <p align="center">
 
-## 📊 GitHub Stats
 
 ![Robben's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbensantosa&show_icons=true)
-
 
 ---
 
