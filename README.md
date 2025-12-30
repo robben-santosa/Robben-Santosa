@@ -43,7 +43,7 @@
 
 ### 🎧 Spotify Recently Played
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=SPOTIFY_USERNAME)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=KevinCN45)
 
 
 ---
