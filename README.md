@@ -36,7 +36,7 @@
 ### 📊 GitHub Stats
 <p align="center">
 
-[![Robben's GitHub stats](https://github-readme-stats.vercel.app/api?username=robben-santosa)]
+![Robben's GitHub stats](https://github-readme-stats.vercel.app/api?username=robben-santosa)
 
 ---
 
