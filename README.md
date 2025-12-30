@@ -44,7 +44,12 @@
 
 ### 🎧 Spotify Recently Player
 
-![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=robben.santosa&theme=novatorem)
+### 🎧 Spotify Recently Played
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=robben.santosa&theme=novatorem&v=1" />
+</p>
+
 
 
 ---
