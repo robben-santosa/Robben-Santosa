@@ -39,7 +39,7 @@
 ---
 
 ### 🧰 Languages & Tools
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,notion" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,notion,arduino" />
 
 ---
 
