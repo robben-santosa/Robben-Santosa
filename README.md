@@ -16,10 +16,10 @@
 <p><sub>HIGH SCHOOL STUDENT · CODER · DREAMER</sub></p>
 
 <p>
-  ![](https://img.shields.io/badge/BANDUNG-🇮🇩-21262d?style=flat-square&labelColor=0d1117)
-  ![](https://img.shields.io/badge/SMA_TRINITAS-grey?style=flat-square&labelColor=0d1117)
-  ![](https://img.shields.io/badge/●_OPEN_TO_COLLAB-1a3a1a?style=flat-square&color=1a3a1a&labelColor=0d1117)
-  ![](https://img.shields.io/badge/BAD_IN_EVERY_WAY_🍃-grey?style=flat-square&labelColor=0d1117)
+  <img src="https://img.shields.io/badge/BANDUNG-ID-21262d?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/SMA_TRINITAS-grey?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/●_OPEN_TO_COLLAB-1a3a1a?style=flat-square&color=1a3a1a&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/BAD_IN_EVERY_WAY_🍃-grey?style=flat-square&labelColor=0d1117" />
 </p>
 
 <img height="180" src="https://media.tenor.com/your-ghibli-gif.gif" alt="ghibli" />
