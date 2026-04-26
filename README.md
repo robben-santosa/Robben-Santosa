@@ -104,7 +104,7 @@
 ### 📌 プロジェクト  —  Projects
 
 <div align="center">
-  <!-- Ganti nama-repo-1 dan nama-repo-2 dengan repo kamu yang ingin dipin -->
+  <!-- Ganti nama-repo-1 dan nama-repo-2 dengan repo kamu -->
   <a href="https://github.com/Robben-Santosa/nama-repo-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Robben-Santosa&repo=nama-repo-1&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117" alt="Pinned Repo 1" />
   </a>
@@ -148,7 +148,7 @@
   <a href="https://github.com/Robben-Santosa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Ganti # dengan link invite Discord kamu jika ada -->
+  <!-- Ganti # dengan link Discord kamu jika ada -->
   <a href="#">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
