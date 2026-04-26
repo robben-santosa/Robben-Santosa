@@ -28,7 +28,6 @@
 
 ---
 
-<!-- について -->
 ### について  —  About Me
 
 | | |
@@ -40,7 +39,6 @@
 
 ---
 
-<!-- ツール -->
 ### ツール  —  Languages & Tools
 
 <div align="center">
@@ -49,38 +47,27 @@
 
 ---
 
-<!-- 統計 -->
 ### 統計  —  GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=robben-santosa&show_icons=true&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robben-santosa&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Robben-Santosa&show_icons=true&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robben-Santosa&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=robben-santosa&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com/?user=Robben-Santosa&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </div>
 
 ---
 
-<!-- 活動 -->
 ### 活動  —  Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=robben_santosa&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&layout=compact" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robben-santosa/robben-santosa/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robben-santosa/robben-santosa/output/github-contribution-grid-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/robben-santosa/robben-santosa/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robben-Santosa&theme=github-compact&hide_border=true&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" />
 </div>
 
 ---
 
-<!-- 言葉 -->
 ### 言葉  —  Quote
 
 > *"The best way to predict the future is to invent it."*
@@ -89,7 +76,6 @@
 
 ---
 
-<!-- 音楽 -->
 ### 音楽  —  Now Playing
 
 <div align="center">
@@ -100,21 +86,24 @@
 
 ---
 
-<!-- 連絡先 -->
 ### 連絡先  —  Connect
 
 <div align="center">
-  <a href="https://instagram.com/kevincn45"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-   
-  <a href="https://github.com/robben-santosa"><img src="https://skillicons.dev/icons?i=github" /></a>
-   
-  <a href="#"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <a href="https://instagram.com/kevincn45">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a> 
+  <a href="https://github.com/Robben-Santosa">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a> 
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=robben-santosa&color=58a6ff&style=flat-square&label=VISITORS)
+  <img src="https://komarev.com/ghpvc/?username=Robben-Santosa&color=58a6ff&style=flat-square&label=VISITORS" />
 </div>
 
 <br/>
