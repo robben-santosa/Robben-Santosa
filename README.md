@@ -5,12 +5,17 @@
 <div align="center">
   <h1>Robben Santosa</h1>
   <h3>Namaste. I build quietly, learn steadily, and dream in late-night pixels.</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=36&pause=1200&color=7AA2F7&center=true&vCenter=true&width=960&lines=Bandung+mindset+%7C+Tokyo+night+vibes;Learning+Web+Development+and+Python;Currently+exploring+React+and+Node.js;Calm+code.+Pixel+glow.+Steady+progress." alt="Typing SVG" />
+  <sub>静かな心で、遠くまで。</sub>
+  <br/>
+  <sub>With a quiet heart, keep going farther.</sub>
+  <br/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=36&pause=1200&color=7AA2F7&center=true&vCenter=true&width=960&lines=Tokyo+night+vibes+%7C+pixel+dreams;Learning+Web+Development+and+Python;Currently+exploring+React+and+Node.js;Calm+code.+Pixel+glow.+Steady+progress." alt="Typing SVG" />
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Robben-Santosa&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS)
-![Location](https://img.shields.io/badge/Bandung-Indonesia-1f2335?style=for-the-badge&logo=pinboard&logoColor=f7768e&labelColor=0b0f1a&color=1f2335)
+![Focus](https://img.shields.io/badge/Focus-Web%20Development-1f2335?style=for-the-badge&logo=ghost&logoColor=f7768e&labelColor=0b0f1a&color=1f2335)
 ![Status](https://img.shields.io/badge/Open%20To-Collaborate-1f2335?style=for-the-badge&logo=handshake&logoColor=9ece6a&labelColor=0b0f1a&color=1f2335)
 ![Theme](https://img.shields.io/badge/Theme-Japanese%20Dark%20Pixel-1f2335?style=for-the-badge&logo=ghost&logoColor=7dcfff&labelColor=0b0f1a&color=1f2335)
 
@@ -30,7 +35,7 @@
   <tr>
     <td width="62%" valign="top">
 
-- Started my journey with **Web Development** as a student at **SMA Trinitas Bandung**
+- Started my journey through **Web Development** with curiosity, consistency, and a love for building things
 - Building confidence in **HTML, CSS, JavaScript**, and slowly leveling up in **React, Node.js, and Python**
 - Interested in **front-end design**, calm UI, and code that feels clean and intentional
 - I like dark interfaces, Japanese atmosphere, retro aesthetics, and meaningful projects
@@ -62,20 +67,7 @@
 ## [ Loadout ]
 
 <div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-0f1728?style=for-the-badge&logo=html5&logoColor=ff9e64)
-![CSS3](https://img.shields.io/badge/CSS3-0f1728?style=for-the-badge&logo=css3&logoColor=7dcfff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f1728?style=for-the-badge&logo=javascript&logoColor=f7e26b)
-![Python](https://img.shields.io/badge/Python-0f1728?style=for-the-badge&logo=python&logoColor=7aa2f7)
-![React](https://img.shields.io/badge/React-0f1728?style=for-the-badge&logo=react&logoColor=7dcfff)
-![Node.js](https://img.shields.io/badge/Node.js-0f1728?style=for-the-badge&logo=nodedotjs&logoColor=9ece6a)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f1728?style=for-the-badge&logo=tailwindcss&logoColor=73daca)
-![Git](https://img.shields.io/badge/Git-0f1728?style=for-the-badge&logo=git&logoColor=f7768e)
-![GitHub](https://img.shields.io/badge/GitHub-0f1728?style=for-the-badge&logo=github&logoColor=f4f7ff)
-![VS Code](https://img.shields.io/badge/VS_Code-0f1728?style=for-the-badge&logo=visualstudiocode&logoColor=7aa2f7)
-![Figma](https://img.shields.io/badge/Figma-0f1728?style=for-the-badge&logo=figma&logoColor=bb9af7)
-![Notion](https://img.shields.io/badge/Notion-0f1728?style=for-the-badge&logo=notion&logoColor=f4f7ff)
-![Arduino](https://img.shields.io/badge/Arduino-0f1728?style=for-the-badge&logo=arduino&logoColor=73daca)
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,tailwind,git,github,vscode,figma,notion,arduino&theme=dark" alt="Skill icons" />
 
 </div>
 
