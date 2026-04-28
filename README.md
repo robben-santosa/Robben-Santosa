@@ -44,7 +44,7 @@
 
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="./assets/about-side.gif" alt="Pixel balcony scene" width="100%" />
+      <img src="./assets/about-side.gif" alt="Pixel side scene" width="88%" />
     </td>
   </tr>
 </table>
