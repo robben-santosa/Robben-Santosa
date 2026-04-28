@@ -54,11 +54,21 @@
 ## [ Digital Identity ]
 
 <div align="center">
+  <a href="https://instagram.com/kevincn45">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" height="62" />
+  </a>
+  <a href="https://github.com/Robben-Santosa">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="62" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" height="62" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" height="62" />
+  </a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-0b0f1a?style=for-the-badge&logo=instagram&logoColor=f7768e)](https://instagram.com/kevincn45)
-[![GitHub](https://img.shields.io/badge/GitHub-0b0f1a?style=for-the-badge&logo=github&logoColor=f4f7ff)](https://github.com/Robben-Santosa)
-[![Discord](https://img.shields.io/badge/Discord-0b0f1a?style=for-the-badge&logo=discord&logoColor=7aa2f7)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-0b0f1a?style=for-the-badge&logo=gmail&logoColor=ff9e64)](mailto:your-email@example.com)
+  <br/>
+  <sub>find me across the digital night</sub>
 
 </div>
 
