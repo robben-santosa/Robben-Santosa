@@ -28,7 +28,8 @@ focus: code / design / growth
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/3ZQ3Z5X.gif" alt="Pixel cyber city" width="96%" />
+  <img src="https://i.imgur.com/3ZQ3Z5X.gif" alt="Pixel cyber city" width="49%" />
+  <img src="https://i.pinimg.com/originals/b5/b0/f9/b5b0f91e5b1dfc2daa8926f0262b77fa.gif" alt="Pixel night room" width="49%" />
 </div>
 
 ---
