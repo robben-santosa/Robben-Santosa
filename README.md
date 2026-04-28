@@ -33,7 +33,7 @@
 
 <table>
   <tr>
-    <td width="62%" valign="top">
+    <td width="60%" valign="top">
 
 - Started my journey through **Web Development** with curiosity, consistency, and a love for building things
 - Building confidence in **HTML, CSS, JavaScript**, and slowly leveling up in **React, Node.js, and Python**
@@ -43,8 +43,8 @@
 - My long-term quest is to become a **Software Engineer**
 
     </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="./assets/pixel-room.gif" alt="Pixel room side art" width="100%" />
+    <td width="40%" align="center" valign="middle">
+      <img src="./assets/about-side.gif" alt="Pixel balcony scene" width="100%" />
     </td>
   </tr>
 </table>
