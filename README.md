@@ -86,12 +86,28 @@
 ## [ Current Build ]
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend stack" height="54" />
+  <br/>
+  <sub><strong>Frontend</strong> • HTML • CSS • JavaScript</sub>
 
-![Frontend](https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-0b0f1a?style=flat-square&logo=googlechrome&logoColor=7dcfff)
-![Learning](https://img.shields.io/badge/Learning-React%20%7C%20Node.js-0b0f1a?style=flat-square&logo=react&logoColor=7aa2f7)
-![Backend](https://img.shields.io/badge/Backend-Python-0b0f1a?style=flat-square&logo=python&logoColor=f7e26b)
-![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20GitHub%20%7C%20VS%20Code-0b0f1a?style=flat-square&logo=git&logoColor=f7768e)
-![Aesthetic](https://img.shields.io/badge/Aesthetic-Japanese%20Dark%20%7C%20Pixel-0b0f1a?style=flat-square&logo=matrix&logoColor=bb9af7)
+  <br/>
+  <br/>
+
+  <img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark" alt="Currently learning" height="54" />
+  <br/>
+  <sub><strong>Learning</strong> • React • Node.js</sub>
+
+  <br/>
+  <br/>
+
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Core tools" height="54" />
+  <br/>
+  <sub><strong>Core Tools</strong> • Python • Git • GitHub • VS Code</sub>
+
+  <br/>
+  <br/>
+
+  <sub><strong>Aesthetic</strong> • Japanese Dark • Pixel • Calm UI</sub>
 
 </div>
 
