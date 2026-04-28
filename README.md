@@ -129,8 +129,20 @@
 ## [ Signal Board ]
 
 <div align="center">
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Robben-Santosa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repos" />
-  <img width="49%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/CURRENT%20MODE-LEARNING%20%26%20BUILDING-1f2335?style=for-the-badge&labelColor=0d1117&color=7aa2f7" alt="Current mode" />
+        <br/>
+        <sub>exploring web development, sharpening fundamentals, and building with patience</sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/MINDSET-CALM%20%7C%20CURIOUS%20%7C%20CONSISTENT-1f2335?style=for-the-badge&labelColor=0d1117&color=f7768e" alt="Mindset" />
+        <br/>
+        <sub>静かな心で、遠くまで。 move gently, learn deeply, keep going.</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
