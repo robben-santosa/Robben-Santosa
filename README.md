@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:05070b,20:0b1020,55:11162a,100:1a2238&text=ROBBEN%20SANTOSA&fontColor=f4f7ff&fontSize=40&fontAlignY=40&desc=student%20developer%20%7C%20web%20learner%20%7C%20pixel-night%20builder&descAlignY=61&animation=fadeIn" alt="Robben Santosa Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/38/06/93/3806936e1c0b535ff338121d6e5765df.gif" alt="Pixel workspace banner" width="100%" />
 </div>
 
 <div align="center">
