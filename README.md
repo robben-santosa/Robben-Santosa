@@ -24,9 +24,11 @@
 
 ---
 
-<img align="right" width="285" src="https://media1.tenor.com/m/ZMUxH5InkZoAAAAd/totoro-my-neighbor-totoro.gif" alt="Totoro pixel mood" />
-
 ## [ About Me ]
+
+<table>
+  <tr>
+    <td width="62%" valign="top">
 
 - Started my journey with **Web Development** as a student at **SMA Trinitas Bandung**
 - Building confidence in **HTML, CSS, JavaScript**, and slowly leveling up in **React, Node.js, and Python**
@@ -35,7 +37,12 @@
 - Ask me about **Web Development, Git, GitHub, beginner Python, and design basics**
 - My long-term quest is to become a **Software Engineer**
 
-<br clear="right"/>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="./assets/pixel-room.gif" alt="Pixel room side art" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
