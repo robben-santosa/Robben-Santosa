@@ -28,8 +28,7 @@ focus: code / design / growth
 ---
 
 <div align="center">
-  <img src="./assets/pixel-workspace.gif" alt="Pixel cyber city" width="49%" />
-  <img src="./assets/pixel-room.gif" alt="Pixel night room" width="49%" />
+  <img src="./assets/pixel-full.gif" alt="Full pixel scene" width="96%" />
 </div>
 
 ---
