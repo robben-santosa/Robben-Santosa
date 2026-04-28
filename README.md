@@ -3,18 +3,9 @@
 </div>
 
 <div align="center">
-
-```text
-yozora.exe booting...
-tokyo mode: on
-focus: code / design / growth
-```
-
-# Robben Santosa
-
-### Namaste. I build quietly, learn steadily, and dream in late-night pixels.
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1200&color=7AA2F7&center=true&vCenter=true&width=900&lines=%E6%9D%B1%E4%BA%AC+night+vibes+%7C+Bandung+mindset;Learning+Web+Development+and+Python;Currently+exploring+React+and+Node.js;Calm+code.+Pixel+glow.+Steady+progress." alt="Typing SVG" />
+  <h1>Robben Santosa</h1>
+  <h3>Namaste. I build quietly, learn steadily, and dream in late-night pixels.</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=36&pause=1200&color=7AA2F7&center=true&vCenter=true&width=960&lines=Bandung+mindset+%7C+Tokyo+night+vibes;Learning+Web+Development+and+Python;Currently+exploring+React+and+Node.js;Calm+code.+Pixel+glow.+Steady+progress." alt="Typing SVG" />
 
 <br/>
 
@@ -28,7 +19,7 @@ focus: code / design / growth
 ---
 
 <div align="center">
-  <img src="./assets/pixel-full.gif" alt="Full pixel scene" width="96%" />
+  <img src="./assets/pixel-full.gif" alt="Full pixel scene" width="100%" />
 </div>
 
 ---
