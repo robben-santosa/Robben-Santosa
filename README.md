@@ -13,7 +13,7 @@
 <h1>やあ, I'm Robben Santosa 🌱</h1>
 
 <p>
-  <em>High school student from Bandung · hanya siswa biasa yang hobi coding 🍃</em>
+  <em>High school student from Bandung · just an ordinary student who loves coding 🍃</em>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=SMA+Trinitas+Bandung+%F0%9F%8F%AB;Learning+Web+Dev+%26+Python+%F0%9F%92%BB;Bad+In+Every+Way+%F0%9F%8D%83;Dream%3A+Software+Engineer+%F0%9F%8E%AF)](https://git.io/typing-svg)
@@ -32,23 +32,23 @@
 ---
 
 <!-- ③ ABOUT ME -->
-### について  —  About Me
+### について  —  About Me
 
 <img align="right" alt="coding" width="340" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb01b/1541580774884-TEXJOWNMGU541/ke17ZwBdBaO_LtoOvsNS5A85v/DeviceHunterArt28.png?format=750w" />
 
-- 🎓 SMA Trinitas Bandung  /  高校生・バンドン  
-- 💻 Lagi belajar Web Development & Python  
-- 🍃 Suka coding yang calm & aesthetic  
-- 🎮 Main Valorant di waktu senggang (dan kalah mulu 💀)  
-- 🎯 Mimpi: jadi Software Engineer suatu hari nanti  
-- 🤝 Terbuka buat kolaborasi & project bareng!
+- 🎓 SMA Trinitas Bandung  /  高校生・バンドン  
+- 💻 Currently learning Web Development & Python  
+- 🍃 Love calm & aesthetic coding vibes  
+- 🎮 Playing Valorant in my free time (and losing every match 💀)  
+- 🎯 Dream: become a Software Engineer someday  
+- 🤝 Open to collaborations & projects!
 
 <br clear="both"/>
 
 ---
 
 <!-- ④ TECH STACK -->
-### ツール  —  Tech Stack
+### ツール  —  Tech Stack
 
 <div align="center">
 
@@ -78,7 +78,7 @@
 ---
 
 <!-- ⑤ GITHUB STATS -->
-### 統計  —  GitHub Stats
+### 統計  —  GitHub Stats
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Robben-Santosa&show_icons=true&theme=github_dark&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" alt="GitHub Stats" />
@@ -92,7 +92,7 @@
 ---
 
 <!-- ⑥ ACTIVITY GRAPH -->
-### 活動  —  Activity
+### 活動  —  Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robben-Santosa&theme=github-compact&hide_border=true&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="GitHub Activity Graph" />
@@ -101,10 +101,10 @@
 ---
 
 <!-- ⑦ PINNED REPOS -->
-### 📌 プロジェクト  —  Projects
+### 📌 プロジェクト  —  Projects
 
 <div align="center">
-  <!-- Ganti nama-repo-1 dan nama-repo-2 dengan repo kamu -->
+  <!-- Replace nama-repo-1 and nama-repo-2 with your actual repo names -->
   <a href="https://github.com/Robben-Santosa/nama-repo-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Robben-Santosa&repo=nama-repo-1&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117" alt="Pinned Repo 1" />
   </a>
@@ -116,19 +116,19 @@
 ---
 
 <!-- ⑧ QUOTE -->
-### 言葉  —  Quote
+### 言葉  —  Quote
 
 <div align="center">
 
 > *"The best way to predict the future is to invent it."*  
->     ── Alan Kay
+>     ── Alan Kay
 
 </div>
 
 ---
 
 <!-- ⑨ SPOTIFY -->
-### 音楽  —  Now Playing
+### 音楽  —  Now Playing
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31embqeq76gci67amhtwsbfhqlde&redirect=true">
@@ -139,7 +139,7 @@
 ---
 
 <!-- ⑩ CONNECT -->
-### 連絡先  —  Connect with Me
+### 連絡先  —  Connect with Me
 
 <div align="center">
   <a href="https://instagram.com/kevincn45">
@@ -148,7 +148,7 @@
   <a href="https://github.com/Robben-Santosa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Ganti # dengan link Discord kamu jika ada -->
+  <!-- Replace # with your Discord link if you have one -->
   <a href="#">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
