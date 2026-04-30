@@ -7,12 +7,12 @@
   <h3>静かにコードを書き、ゆっくり成長し、夜のピクセルに夢を見る。</h3>
   <sub>I write code quietly, grow steadily, and dream in midnight pixels.</sub>
   <br/>
-  <sub>静かな心で、一歩ずつ前へ。</sub>
+  <sub>コーディングする空気感を大切にしながら、一歩ずつ前へ。</sub>
   <br/>
-  <sub>With a quiet heart, I keep moving forward.</sub>
+  <sub>Carrying a true codinger vibe, I keep moving forward one step at a time.</sub>
   <br/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=36&pause=1200&color=7AA2F7&center=true&vCenter=true&width=960&lines=Tokyo+night+mode+%7C+pixel+dreams;Web+Development+%E3%81%A8+Python+%E3%82%92%E5%AD%A6%E3%81%B3%E4%B8%AD;Exploring+React+%26+Node.js;Quiet+code.+Soft+glow.+Steady+progress." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=36&pause=1200&color=7AA2F7&center=true&vCenter=true&width=960&lines=Tokyo+night+mode+%7C+pixel+dreams;Web+Development+%E3%81%A8+Python+%E3%82%92%E5%AD%A6%E3%81%B3%E4%B8%AD;Exploring+React+%26+Node.js;Coder+vibes.+Soft+glow.+Steady+progress." alt="Typing SVG" />
 
 <br/>
 
@@ -41,6 +41,7 @@
 - I am growing my skills in **HTML, CSS, and JavaScript**, and slowly expanding into **React, Node.js, and Python**
 - **落ち着いたUI**、やさしい雰囲気のデザイン、そして読みやすいコードが好きです
 - I enjoy dark interfaces, Japanese-inspired atmosphere, pixel details, and meaningful projects
+- Quiet by nature, but full of **codinger energy** when building and learning
 - **Git、GitHub、Web Development、beginner Python** の話なら気軽にどうぞ
 - My long-term goal is to become a thoughtful **Software Engineer**
 
