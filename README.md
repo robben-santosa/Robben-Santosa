@@ -4,13 +4,15 @@
 
 <div align="center">
   <h1>Robben Santosa</h1>
-  <h3>Namaste. I build quietly, learn steadily, and dream in late-night pixels.</h3>
-  <sub>静かな心で、遠くまで。</sub>
+  <h3>静かにコードを書き、ゆっくり成長し、夜のピクセルに夢を見る。</h3>
+  <sub>I write code quietly, grow steadily, and dream in midnight pixels.</sub>
   <br/>
-  <sub>With a quiet heart, keep going farther.</sub>
+  <sub>静かな心で、一歩ずつ前へ。</sub>
+  <br/>
+  <sub>With a quiet heart, I keep moving forward.</sub>
   <br/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=36&pause=1200&color=7AA2F7&center=true&vCenter=true&width=960&lines=Tokyo+night+vibes+%7C+pixel+dreams;Learning+Web+Development+and+Python;Currently+exploring+React+and+Node.js;Calm+code.+Pixel+glow.+Steady+progress." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=36&pause=1200&color=7AA2F7&center=true&vCenter=true&width=960&lines=Tokyo+night+mode+%7C+pixel+dreams;Web+Development+%E3%81%A8+Python+%E3%82%92%E5%AD%A6%E3%81%B3%E4%B8%AD;Exploring+React+%26+Node.js;Quiet+code.+Soft+glow.+Steady+progress." alt="Typing SVG" />
 
 <br/>
 
@@ -29,18 +31,18 @@
 
 ---
 
-## [ About Me ]
+## [ 自己紹介 | About Me ]
 
 <table>
   <tr>
     <td width="60%" valign="top">
 
-- Started my journey through **Web Development** with curiosity, consistency, and a love for building things
-- Building confidence in **HTML, CSS, JavaScript**, and slowly leveling up in **React, Node.js, and Python**
-- Interested in **front-end design**, calm UI, and code that feels clean and intentional
-- I like dark interfaces, Japanese atmosphere, retro aesthetics, and meaningful projects
-- Ask me about **Web Development, Git, GitHub, beginner Python, and design basics**
-- My long-term quest is to become a **Software Engineer**
+- Web Development への興味から、この学びの旅が始まりました
+- I am growing my skills in **HTML, CSS, and JavaScript**, and slowly expanding into **React, Node.js, and Python**
+- **落ち着いたUI**、やさしい雰囲気のデザイン、そして読みやすいコードが好きです
+- I enjoy dark interfaces, Japanese-inspired atmosphere, pixel details, and meaningful projects
+- **Git、GitHub、Web Development、beginner Python** の話なら気軽にどうぞ
+- My long-term goal is to become a thoughtful **Software Engineer**
 
     </td>
     <td width="40%" align="center" valign="middle">
@@ -51,7 +53,7 @@
 
 ---
 
-## [ Digital Identity ]
+## [ デジタルID | Digital Identity ]
 
 <div align="center">
   <a href="https://instagram.com/kevincn45">
@@ -68,13 +70,15 @@
   </a>
 
   <br/>
-  <sub>find me across the digital night</sub>
+  <sub>デジタルの夜で、ゆるくつながりましょう。</sub>
+  <br/>
+  <sub>Find me somewhere in the digital night.</sub>
 
 </div>
 
 ---
 
-## [ Loadout ]
+## [ スキルセット | Loadout ]
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,tailwind,git,github,vscode,figma,notion,arduino&theme=dark" alt="Skill icons" />
@@ -83,7 +87,7 @@
 
 ---
 
-## [ Current Build ]
+## [ 現在のスタック | Current Build ]
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend stack" height="54" />
@@ -95,7 +99,7 @@
 
   <img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark" alt="Currently learning" height="54" />
   <br/>
-  <sub><strong>Learning</strong> • React • Node.js</sub>
+  <sub><strong>学習中</strong> • React • Node.js</sub>
 
   <br/>
   <br/>
@@ -126,7 +130,7 @@
 
 ---
 
-## [ Signal Board ]
+## [ シグナル | Signal Board ]
 
 <div align="center">
   <table>
@@ -134,12 +138,12 @@
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/CURRENT%20MODE-LEARNING%20%26%20BUILDING-1f2335?style=for-the-badge&labelColor=0d1117&color=7aa2f7" alt="Current mode" />
         <br/>
-        <sub>exploring web development, sharpening fundamentals, and building with patience</sub>
+        <sub>Web development を学びながら、基礎をしっかり磨いています。</sub>
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/MINDSET-CALM%20%7C%20CURIOUS%20%7C%20CONSISTENT-1f2335?style=for-the-badge&labelColor=0d1117&color=f7768e" alt="Mindset" />
         <br/>
-        <sub>静かな心で、遠くまで。 move gently, learn deeply, keep going.</sub>
+        <sub>静かな心で進みながら、learn deeply and keep going.</sub>
       </td>
     </tr>
   </table>
@@ -147,7 +151,7 @@
 
 ---
 
-## [ Pinned Projects ]
+## [ ピンしたプロジェクト | Pinned Projects ]
 
 <div align="center">
   <a href="https://github.com/Robben-Santosa/nama-repo-1">
@@ -159,12 +163,14 @@
 </div>
 
 <div align="center">
+  <sub><code>nama-repo-1</code> と <code>nama-repo-2</code> を実際のリポジトリ名に置き換えてください。</sub>
+  <br/>
   <sub>Replace <code>nama-repo-1</code> and <code>nama-repo-2</code> with your real repositories.</sub>
 </div>
 
 ---
 
-## [ Contribution Graph ]
+## [ 活動グラフ | Contribution Graph ]
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Robben-Santosa&theme=tokyo-night&bg_color=0d1117&hide_border=false&color=7aa2f7&line=f7768e&point=ff9e64&area=true&area_color=1f2a44" alt="Contribution Graph" />
@@ -172,7 +178,7 @@
 
 ---
 
-## [ Now Playing ]
+## [ Now Playing | 再生中 ]
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31embqeq76gci67amhtwsbfhqlde&redirect=true">
@@ -182,17 +188,17 @@
 
 ---
 
-## [ Final Transmission ]
+## [ 最後のメッセージ | Final Transmission ]
 
 <div align="center">
 
 ```text
-shinkansen thoughts
+静かな夜の思考
 pixel heart
-midnight code
+midnight coding
 keep moving forward
 ```
 
-<sub>Made in Bandung with quiet ambition, dark palettes, and late-night curiosity.</sub>
+<sub>Made in Bandung with 静かな ambition, dark palettes, and late-night curiosity.</sub>
 
 </div>
