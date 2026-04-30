@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Robben Santosa</h1>
+  <h1>ロッベン・サントサ | Robben Santosa</h1>
   <h3>静かにコードを書き、ゆっくり成長し、夜のピクセルに夢を見る。</h3>
   <sub>I write code quietly, grow steadily, and dream in midnight pixels.</sub>
   <br/>
